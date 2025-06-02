@@ -37,7 +37,7 @@ Node.js	JavaScript runtime environment
 JWT	Authentication and authorization
 Redux	State management (for React)
 Mongoose	MongoDB ORM for schema & queries
-TailwindCSS / Bootstrap	Styling (optional based on choice)
+TailwindCSS 
 
 📁 Folder Structure
 bash
